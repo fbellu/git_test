@@ -1,2 +1,3 @@
 # git_test
-The Odin Project first workout repo
+The Odin Project 1st git workout repo
+
